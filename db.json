@@ -9,7 +9,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.5000",
             "isBooked":false
 
         },
@@ -22,7 +22,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.8000",
             "isBooked":false
             
         },
@@ -35,7 +35,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.9000",
             "isBooked":false
             
         },
@@ -48,7 +48,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.15000",
             "isBooked":false
             
         },
@@ -61,7 +61,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.10000",
             "isBooked":false
         },
         {
@@ -73,7 +73,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.9000",
             "isBooked":false
         },
         {
@@ -85,7 +85,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.5000",
             "isBooked":false
 
         },
@@ -98,7 +98,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.12000",
             "isBooked":false
             
         },
@@ -111,7 +111,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$120",
+            "price":"RS.8000",
             "isBooked":false
             
         },
@@ -124,7 +124,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.15000",
             "isBooked":false
             
         },
@@ -137,7 +137,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.16000",
             "isBooked":false
         },
         {
@@ -149,7 +149,7 @@
             "doors":4,
             "aircondition":"Yes",
             "transmission":"automatic",
-            "price":"$100",
+            "price":"RS.8000",
             "isBooked":false
         }
 
