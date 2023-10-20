@@ -176,12 +176,12 @@
           "id": 2
         },
         {
-          "name": "Test User",
+          "name": "User",
           "age": "22",
           "phone": "9514490384",
-          "email": "testuser@gmail.com",
-          "password": "TestUser@1234",
-          "cpassword": "TestUser@1234",
+          "email": "user@gmail.com",
+          "password": "User@12345",
+          "cpassword": "User@12345",
           "id": 3
         }
       ]
